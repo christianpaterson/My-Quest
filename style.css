@@ -1,25 +1,22 @@
 body {
   background-color: #FFFEEF;
+  padding-left: 25px;
 }
 
 h1 {
-    text-align: center;
-    color: rgb(0,150,75);
+  color: rgb(0,150,75);
 }
 
 h2 {
-    text-align: center;
-    color: #77CCAA;
+  color: #77CCAA;
 }
 
 h3 {
-    text-align: center;
-    color: #FF9900;
+  color: #FF9900;
 }
 
 h4 {
-    text-align: center;
-    color: #FFCC00;
+  color: #FFCC00;
 }
 
 a:link {
