@@ -14,5 +14,4 @@ Although my goals have changed somewhat since then, I'm still coding every day!
 <li>CSS</li>
 <li>GIT</li>
 <li>GITHUB</li>
-<li>Chrome developer tools</li>
 </ul>
